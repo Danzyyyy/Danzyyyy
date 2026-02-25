@@ -36,20 +36,18 @@ I am a passionate developer currently focusing on building immersive game experi
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danzyyyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danzyyyy&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danzyyyy&theme=tokyonight" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Danzyyyy/Danzyyyy/output/snake.svg" alt="Snake animation" />
 
 ---
 
